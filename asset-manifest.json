@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/botonomics/static/css/main.7439a545.chunk.css",
+    "main.js": "/botonomics/static/js/main.af3135a0.chunk.js",
+    "main.js.map": "/botonomics/static/js/main.af3135a0.chunk.js.map",
+    "runtime-main.js": "/botonomics/static/js/runtime-main.d29e5bbc.js",
+    "runtime-main.js.map": "/botonomics/static/js/runtime-main.d29e5bbc.js.map",
+    "static/js/2.699461b1.chunk.js": "/botonomics/static/js/2.699461b1.chunk.js",
+    "static/js/2.699461b1.chunk.js.map": "/botonomics/static/js/2.699461b1.chunk.js.map",
+    "index.html": "/botonomics/index.html",
+    "static/css/main.7439a545.chunk.css.map": "/botonomics/static/css/main.7439a545.chunk.css.map",
+    "static/js/2.699461b1.chunk.js.LICENSE.txt": "/botonomics/static/js/2.699461b1.chunk.js.LICENSE.txt",
+    "static/media/map.16975df7.jpg": "/botonomics/static/media/map.16975df7.jpg",
+    "static/media/mobile1.81cdc053.jpg": "/botonomics/static/media/mobile1.81cdc053.jpg",
+    "static/media/mobile2.5fc23c18.jpg": "/botonomics/static/media/mobile2.5fc23c18.jpg",
+    "static/media/user.a80bb3a4.png": "/botonomics/static/media/user.a80bb3a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d29e5bbc.js",
+    "static/js/2.699461b1.chunk.js",
+    "static/css/main.7439a545.chunk.css",
+    "static/js/main.af3135a0.chunk.js"
+  ]
+}
